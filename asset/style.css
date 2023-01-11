@@ -1,0 +1,28 @@
+
+input{
+    margin-bottom: 1rem;
+}
+
+select{
+    margin-bottom: 1rem;
+}
+
+#message{
+    resize: none;
+    height: 10rem;
+}
+
+#mentions{
+    font-size: 0.7rem;
+    color: grey;
+}
+
+select:invalid {
+    color: grey;
+  }
+
+input[type="checkbox"]{
+    height: 2.4rem;
+    width: 2.4rem;
+    margin-bottom: 1.1rem;
+}
